@@ -1,6 +1,6 @@
 # remarkableBackup
 ## Instuctions
-Scripts for back-up of remarkable files. 
+Scripts for back-up of remarkable digital notebook files. 
 
 In order to run, make the remarkableBackup script executable and then type the following command in a terminal:
 ```
